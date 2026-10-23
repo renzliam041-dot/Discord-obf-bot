@@ -45,4 +45,4 @@ async def obfuscate(ctx):
     )
     await ctx.send(file=file)
 
-bot.run(os.environ[('DISCORD_TOKEN')]
+bot.run(os.environ['DISCORD_TOKEN']) 
