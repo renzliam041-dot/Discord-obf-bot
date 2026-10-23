@@ -45,4 +45,4 @@ async def obfuscate(ctx):
     )
     await ctx.send(file=file)
 
-bot.run('YOUR_BOT_TOKEN')
+bot.run('MTU2MzIwMDA1ODQwMzU5MDE3Ng.GmkLGl.LDGfrgbdmEeDVKfhZpMk1pIFLsgevglAM8ClGU')
