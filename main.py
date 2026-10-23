@@ -1,4 +1,3 @@
-import os
 import discord
 from discord.ext import commands
 import io
@@ -46,4 +45,4 @@ async def obfuscate(ctx):
     )
     await ctx.send(file=file)
 
-bot.run(os.environ['DISCORD_TOKEN'])
+bot.run('MTU2MzIwMDA1ODQwMzU5MDE3Ng.GyGMDp.YICH8IgHqfUDdfwTZjEUrdq4YpjZuwM6i3OaV0')
